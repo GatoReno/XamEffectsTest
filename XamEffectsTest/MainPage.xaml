@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="XamEffectsTest.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:xe="clr-namespace:XamEffects;assembly=XamEffects">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <StackLayout
+            Padding="20"
+            xe:Commands.LongTap="{Binding LongTapCommand}"
+            xe:Commands.Tap="{Binding TapCommand}"
+            xe:TouchEffect.Color="Blue">
+            <Label Text="Tap Types" />
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Long Tap" />
+                <Label Text="{Binding LongTap}" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Regular Tap" />  
+                <Label Text="{Binding Tap}" />
+            </StackLayout>
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

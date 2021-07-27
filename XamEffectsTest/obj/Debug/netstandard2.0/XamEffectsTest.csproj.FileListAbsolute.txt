@@ -1,0 +1,14 @@
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/bin/Debug/netstandard2.0/XamEffectsTest.deps.json
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/bin/Debug/netstandard2.0/XamEffectsTest.dll
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/bin/Debug/netstandard2.0/ref/XamEffectsTest.dll
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/bin/Debug/netstandard2.0/XamEffectsTest.pdb
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/XamEffectsTest.csproj.AssemblyReference.cache
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/XamEffectsTest.AssemblyInfoInputs.cache
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/XamEffectsTest.AssemblyInfo.cs
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/XamEffectsTest.csproj.CoreCompileInputs.cache
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/XamEffectsTest.dll
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/ref/XamEffectsTest.dll
+/Users/ed/Projects/XamEffectsTest/XamEffectsTest/obj/Debug/netstandard2.0/XamEffectsTest.pdb

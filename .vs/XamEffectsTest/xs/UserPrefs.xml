@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9D9151C4-89BE-4FCD-BDE5-E508B68FCCD8}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamEffectsTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B7CDDE6E-94DA-4225-AD61-4C9459CCA41E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamEffectsTest/MainViewModel.cs">
+    <Files>
+      <File FileName="XamEffectsTest.Android/MainActivity.cs" Line="7" Column="1" NotebookId="1" />
+      <File FileName="XamEffectsTest.iOS/AppDelegate.cs" Line="27" Column="40" NotebookId="1" />
+      <File FileName="XamEffectsTest/MainPage.xaml" Line="16" Column="1" NotebookId="1" />
+      <File FileName="XamEffectsTest/MainPage.xaml.cs" Line="11" Column="48" NotebookId="1" />
+      <File FileName="XamEffectsTest/MainViewModel.cs" Line="6" Column="33" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamEffectsTest" expanded="True">
+            <Node name="XamEffectsTest" expanded="True">
+              <Node name="MainViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamEffectsTest.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

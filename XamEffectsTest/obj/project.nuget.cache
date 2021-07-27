@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BlvU7y0cRxwL4Ea8v/e9x3SZchqc5tsKGLaOGwPYqb5UiTSWicXFR6lA4uT1QJ4c3k3adxz5iOsF0oB8TCoh3Q==",
+  "success": true,
+  "projectFilePath": "/Users/ed/Projects/XamEffectsTest/XamEffectsTest/XamEffectsTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/ed/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ed/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ed/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ed/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/ed/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/ed/.nuget/packages/xameffects/1.6.2/xameffects.1.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
